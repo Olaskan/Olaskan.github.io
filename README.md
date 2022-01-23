@@ -4,13 +4,9 @@ A showcase of my works.
 
 ## Description
 
-A **creator's portfolio** is an edited collection of an their best work, intended to showcase their style or method of work, and versatility by showing different samples of current work. 
+A **creator's portfolio** is an edited collection of an their best work intended to showcase their style, method of work, and versatility though different samples of current work. 
 
-This is mine.
-
-## Getting Started
-
-Follow this [link](https://olaskan.github.io/ "Manchild")
+Follow this [link](https://olaskan.github.io/ "Manchild") to view mine.
 
 ## Help
 
